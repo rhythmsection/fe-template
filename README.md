@@ -11,12 +11,10 @@ This is my personal version of create-react-app configured to the naming convent
 
 TODO:
 
-flow typescripting
-make standard work properly.
-clean up packages
-create slightly more intricate component. (but only slightly)
-make some getters and test them
-make a test repo. 
+-flow typescripting
+-clean up packages
+-create slightly more intricate component. (but only slightly)
+-make some getters and test them
 
 -**Install Dependencies:** `npm install`
 
